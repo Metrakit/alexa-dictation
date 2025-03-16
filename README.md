@@ -7,6 +7,7 @@ Petit script pour lancer une dictée
 Alexa Remote Control : https://github.com/thorsten-gehrig/alexa-remote-control
 
 ## Usage
+Créer un fichier mots.txt avec les mots/phrases ligne par ligne puis : 
 ```bash
-./alexa_dictation mot1 [mot2 mot3 ...]
+VOICEMONKEY_TOKEN=XXXXXX  ./alexa_dictation
 ```
